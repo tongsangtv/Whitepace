@@ -1,4 +1,4 @@
- {
+* {
   box-sizing: border-box;
 }
 .container {
@@ -982,6 +982,7 @@ a {
   align-items: center;
   justify-content: center;
 }
+
 
 
 
